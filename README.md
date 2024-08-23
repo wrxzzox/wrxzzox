@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Wx.!
+![me](https://github.com/wrxzzox/profile/blob/main/IMG_0275.jpeg?raw=true)
 
 ## 👨‍💻 About Me:
 - 🌱 I’m currently learning **CEDT-CHULA**
