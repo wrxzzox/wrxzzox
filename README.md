@@ -2,6 +2,8 @@
 ![me](https://github.com/wrxzzox/profile/blob/main/IMG_0275.jpeg?raw=true)
 
 ## 👨‍💻 About Me:
+- 👾 My name is Wongwarit Rochanasaramphakit
+- 🤖 My student ID is 6733224621
 - 🌱 I’m currently learning **CEDT-CHULA**
 - 📫 How to reach me: **IG:wrxzzo**
 - 😄 Pronouns: **He,Him**
